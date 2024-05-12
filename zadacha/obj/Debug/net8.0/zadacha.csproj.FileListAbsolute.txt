@@ -1,0 +1,15 @@
+D:\itog_control\zadacha\bin\Debug\net8.0\zadacha.exe
+D:\itog_control\zadacha\bin\Debug\net8.0\zadacha.deps.json
+D:\itog_control\zadacha\bin\Debug\net8.0\zadacha.runtimeconfig.json
+D:\itog_control\zadacha\bin\Debug\net8.0\zadacha.dll
+D:\itog_control\zadacha\bin\Debug\net8.0\zadacha.pdb
+D:\itog_control\zadacha\obj\Debug\net8.0\zadacha.GeneratedMSBuildEditorConfig.editorconfig
+D:\itog_control\zadacha\obj\Debug\net8.0\zadacha.AssemblyInfoInputs.cache
+D:\itog_control\zadacha\obj\Debug\net8.0\zadacha.AssemblyInfo.cs
+D:\itog_control\zadacha\obj\Debug\net8.0\zadacha.csproj.CoreCompileInputs.cache
+D:\itog_control\zadacha\obj\Debug\net8.0\zadacha.sourcelink.json
+D:\itog_control\zadacha\obj\Debug\net8.0\zadacha.dll
+D:\itog_control\zadacha\obj\Debug\net8.0\refint\zadacha.dll
+D:\itog_control\zadacha\obj\Debug\net8.0\zadacha.pdb
+D:\itog_control\zadacha\obj\Debug\net8.0\zadacha.genruntimeconfig.cache
+D:\itog_control\zadacha\obj\Debug\net8.0\ref\zadacha.dll
